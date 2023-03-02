@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Example
 
-<img src="assets/video/video.mp4" width="200"> 
+<img src="assets/video/video.mp4" width="180"> 
